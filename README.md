@@ -131,24 +131,6 @@ flutter run -d windows
 
 ---
 
-## Estructura general del proyecto
-
-```text
-respira_check/
-│
-├── lib/
-│   └── main.dart
-│
-├── android/
-├── ios/
-├── web/
-├── windows/
-├── pubspec.yaml
-└── README.md
-```
-
----
-
 ## Aviso importante
 
 RespiraCheck Pro es una herramienta educativa y orientativa. No sustituye la valoración de un profesional de la salud, no emite diagnósticos médicos y no debe utilizarse para tomar decisiones clínicas reales.
